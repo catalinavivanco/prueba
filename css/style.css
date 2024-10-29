@@ -1,0 +1,57 @@
+h1 {
+    color:rgb(255, 181, 213); 
+    font-family: arial; sans-serif; 
+    font-size: 36px; 
+    font-weight: bold;
+    text-align: center; 
+    text-shadow: 2px 2px 5px #333;
+}
+
+h1 {
+    transition: transform 0.5s ease;
+    }
+    
+    h1:hover {
+    transform: scale(1.2) translate(10px, 10px);
+    }
+    
+
+body {
+    background-image: url(imagenes/si.jpg);
+    background-repeat: no-repeat; 
+    background-size: cover;
+    background-attachment: fixed; 
+   }
+  
+   h3 {
+    color:rgb(93, 93, 93); 
+    font-family: arial, sans-serif;
+    font-size: 16px; 
+    font-weight: bold;
+    text-align: center; 
+}
+h3 {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
+  }
+  h3 {
+    background-color: #f2f2f2;
+    padding: 10px; 
+    border-radius: 10px; 
+  }
+  
+  h3 {
+    border-bottom: 2px solid #ff3499;
+  }
+  h2 {
+    font-family: Arial, sans-serif;
+    text-shadow: 2px 2px 5px rgba (0,0,0,0.2); 
+  }
+  
+  h2 {
+    font-size: 24px;
+    font-weight: bold;
+    transition: opacity 0.5s ease;
+    opacity: 0.5;
+  }
+  
+ 
