@@ -24,8 +24,8 @@ body {
    }
   
    h3 {
-    color:rgb(93, 93, 93); 
-    font-family: arial, sans-serif;
+    color:rgb(5, 5, 5); 
+    font-family: helvetica, sans-serif;
     font-size: 16px; 
     font-weight: bold;
     text-align: center; 
@@ -71,7 +71,7 @@ img {
  }
 
 .subtitulo {
-  font-family: arial;
-  color: #529abc;
-  text-shadow: 1px 1px 1px #000000;
+  font-family: courier;
+  color: #f2f8fb;
+  text-shadow: 1px 1px 1px #075379;
 }
