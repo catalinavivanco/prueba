@@ -1,4 +1,4 @@
-h1 {
+  h1 {
     color:rgb(255, 255, 255); 
     font-family: arial; sans-serif; 
     font-size: 36px; 
@@ -89,3 +89,12 @@ img {
     width: 100%;
   }
 }
+a {
+  color: #000000; 
+  text-decoration: none; 
+  transition: color 0.5s ease; 
+}
+a:hover {
+  color: #d555ff; 
+}
+
