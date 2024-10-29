@@ -67,5 +67,11 @@ img {
  .autora{
   font-size: 20px;
   color: rgb(227, 126, 221);
-  text-shadow: 2px 2px 2px #000000;
+  text-shadow: 2px 2px 4px #000000;
  }
+
+.subtitulo {
+  font-family: arial;
+  color: #529abc;
+  text-shadow: 1px 1px 1px #000000;
+}
