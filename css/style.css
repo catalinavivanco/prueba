@@ -65,13 +65,27 @@ img {
   transform: translateX(15px); 
  } 
  .autora{
+  font-family: serif;
   font-size: 20px;
   color: rgb(227, 126, 221);
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 1px 1px 1px #000000;
  }
 
 .subtitulo {
   font-family: courier;
   color: #f2f8fb;
   text-shadow: 1px 1px 1px #075379;
+
+  animation: escribir 2s forwards;
+}
+
+@keyframes escribir {
+  0% {
+    width: 0;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+  100% {
+    width: 100%;
+  }
 }
